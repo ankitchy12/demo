@@ -4,7 +4,7 @@ body {
   margin: 0;
   background: #f4f4f9;
   color: #333;
-  line-height: 1.6;
+  line-height: 3.6;
 }
 
 /* Header */
@@ -49,6 +49,7 @@ section {
   padding: 40px 20px;
   max-width: 900px;
   margin: auto;
+    text-align: center;
 }
 
 section h2 {
@@ -64,7 +65,7 @@ section h2 {
 }
 
 .card {
-  background: white;
+  background: rgb(182, 188, 240);
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
